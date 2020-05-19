@@ -24,9 +24,9 @@ export default (props) => {
 				<h2>{props.nome}</h2>
 				<p>{props.position}</p>
 				<br/><br/>
-				<a href={props.ainsta} target="_blank" rel="noopener noreferrer">{props.insta} | </a>
-				<a href={props.atwitter} target="_blank" rel="noopener noreferrer">{props.twitter} | </a>
-				<a href={props.adeviantart} target="_blank" rel="noopener noreferrer">{props.deviantart}</a>
+				<a href={props.ainsta} target="_blank" rel="noopener noreferrer" title="Instagram">{props.insta} | </a>
+				<a href={props.atwitter} target="_blank" rel="noopener noreferrer" title="Twitter">{props.twitter} | </a>
+				<a href={props.adeviantart} target="_blank" rel="noopener noreferrer" title="DeviantArt">{props.deviantart}</a>
 			</div>
 			
 	</div>
