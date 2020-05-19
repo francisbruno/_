@@ -40,10 +40,16 @@ var StoriesRender = (
       <Header/>
       <Profile
         cursor="pointer"
-        nome="BRUNO"
-        bitcoin="1GsaVB7ypw8zkZz5KKL124GcKEi1ZfCZdD"
-        text="As the old world fall behind, my spirit reaches wide..."
-        filter="grayscale(1)"
+        nome="BRUNO FRANCISCO"
+        position="Designer/Developer"
+        
+        twitter="@brvnv_"
+        insta="@brvnofrancicvs"
+        deviantart="infj-artist"
+
+        atwitter="https://twitter.com/brvnv_"
+        ainsta="https://instagr.am/brvnofranciscvs"
+        adeviantart="https://deviantart.com/infj-artist"
       />
 
       <TextComponent/>
